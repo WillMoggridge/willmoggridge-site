@@ -1,0 +1,6 @@
+*.pyc
+
+dev.sqlite3
+
+env/*
+settings/local_settings.py
