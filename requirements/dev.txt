@@ -1,0 +1,5 @@
+-r live.txt
+django-extensions
+django-nose
+six
+nose
